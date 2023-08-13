@@ -12,4 +12,5 @@ pkg install git
 git clone https://github.com/Maverick-S11/MVRK
 
 cd MVRK
+
 python MVRK.py
