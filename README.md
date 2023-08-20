@@ -1,5 +1,5 @@
 # MVRK
-70% Lebih Cepat Proses Crackernya Dibanding Sc IG Lainnya, Akun Tumbal Susah Kesuspen, Minimal Pake Akun Tumbal Di Sc Ini 1 Minggu Baru Akun Tumbalnya Kesuspen/Nonaktif
+70% Lebih Cepat Proses Crackernya Dibanding Sc IG Lainnya 🙏
 
 pkg update && pkg upgrade
 
@@ -14,3 +14,5 @@ git clone https://github.com/Maverick-S11/MVRK
 cd MVRK
 
 python MVRK.py
+
+SUKSES SELALU 🦹🦸
