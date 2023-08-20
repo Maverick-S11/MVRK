@@ -5,11 +5,11 @@ pkg update && pkg upgrade
 
 pkg install python
 
-pip install rich
-
 pkg install git
 
 git clone https://github.com/Maverick-S11/MVRK
+
+pip install request mechanize rich bs4
 
 cd MVRK
 
