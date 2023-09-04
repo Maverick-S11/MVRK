@@ -1,6 +1,8 @@
 # MVRK
 • 70% Lebih Cepat Proses Crackernya Dibanding Sc IG Lainnya 
+
 • Proses Crack 200%
+
 • Hemat Akun Tumbal
 
 pkg update && pkg upgrade
